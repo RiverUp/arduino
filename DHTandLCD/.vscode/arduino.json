@@ -1,5 +1,0 @@
-{
-    "board": "arduino:avr:uno",
-    "sketch": "DHTandLCD.ino",
-    "port": "COM6"
-}
