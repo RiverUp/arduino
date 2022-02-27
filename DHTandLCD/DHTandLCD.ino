@@ -1,3 +1,5 @@
+#include <LiquidCrystal.h>
+
 int DI=12;//数据/命令选择端
 int RW=11;//读/写选择端
 int DB[]{3,4,5,6,7,8,9,10};
